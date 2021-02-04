@@ -81,9 +81,6 @@ table{
 
 table th{
   text-align: start;
-}
-
-table thead, table tbody{
   border-bottom: 1px solid #303030;
 }
 
