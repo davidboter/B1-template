@@ -137,6 +137,16 @@ article h2.open-forever{
   padding: 0;
   padding-left: 10px;
   margin-bottom: 20px;
+}
+.emphasize{
+  padding: 1em;
+  border-left: 5px solid #27AE60;
+  box-shadow: #27AE60 1px 0px 5px;
+}
+.emphasize h2{
+  margin: 0;
+  padding: 0;
+}
 
 .product{
   margin-right: 1em;
