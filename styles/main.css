@@ -85,8 +85,9 @@ table th{
   vertical-align: middle;
 }
 
-table th.slim{
-  width: 100px;
+.thtop{
+  border-top: 1px solid #303030;
+  border-bottom: none;
 }
 
 table tfoot{
