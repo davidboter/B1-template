@@ -82,6 +82,7 @@ table{
 table th{
   text-align: start;
   border-bottom: 1px solid #303030;
+  vertical-align: middle;
 }
 
 table th.slim{
